@@ -42,10 +42,13 @@ Dune Analytics (Liquidation Risk Monitoring Query)
 ## Demo
 
 📊 Dune Dashboard — Data Source
+![Dune Dashboard](assets/dune_dashboard.jpg)
 
 ✅ GitHub Actions — Automated Daily Run
+![GitHub Actions](assets/github_actions.jpg)
 
 🚨 Telegram Alert — Threshold Exceeded
+![Telegram Alert](assets/telegram_alert.jpg)
 
 ---
 
